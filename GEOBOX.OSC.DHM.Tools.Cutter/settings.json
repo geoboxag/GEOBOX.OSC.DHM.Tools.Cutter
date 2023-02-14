@@ -1,0 +1,16 @@
+{
+  "_SourceFolder": "Der Quell-Ordner",
+  "SourceFolder": "C:\\DHMCutter\\Input",
+  "_DestinationFile": "Die Ziel Datei",
+  "DestinationFile": "C:\\DHMCutter\\Result.xyz",
+  "_XMinCoord": "Die X-Koordinate der unteren Begrenzung",
+  "XMinCoord": 2580000.000,
+  "_YMinCoord": "Die Y-Koordinate der unteren Begrenzung",
+  "YMinCoord": 1190000.000,
+  "_XMaxCoord": "Die X-Koordinate der oberen Begrenzung",
+  "XMaxCoord": 2600000.000,
+  "_YMaxCoord": "Die Y-Koordinate der oberen Begrenzung",
+  "YMaxCoord": 1200000.000,
+  "_HalfingFactor": "Der Halbierungsfaktor für die Reduktion",
+  "HalfingFactor": 7
+}
