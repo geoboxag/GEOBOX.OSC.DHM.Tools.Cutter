@@ -21,7 +21,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\..\_repos\tbviewapp\TBview.App.Server.Common\Properties\Version.cs" Link="Properties\Version.cs" />
+    <Compile Include="..\GEOBOX.OSC.DHM.Tools.Common\Properties\Version.cs" Link="Properties\Version.cs" />
   </ItemGroup>
 
   <ItemGroup>
